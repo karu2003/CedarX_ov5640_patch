@@ -8,3 +8,7 @@ https://github.com/peteallenm/cedar
 https://github.com/aodzip/cedar
 
 https://github.com/peteallenm/gst-plugin-cedar-cs
+
+https://github.com/FREEWING-JP/OrangePi_CedarX
+
+https://github.com/PaserTech-Hardware/cedar
